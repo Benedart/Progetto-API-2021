@@ -1,4 +1,4 @@
-# Prova Finale di API 2020
+# Prova Finale di API 2020/21
 
 This is my submission for the "Progetto di API 2020/21" at Politecnico di Milano.
 
